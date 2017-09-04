@@ -42,5 +42,5 @@
   - [Solution](Policy Iteration Solution.ipynb)
 
 - Implement Value Iteration in Python (Gridworld)
-  - [Exercise](Value Iteration.ipynb)
-  - [Solution](Value Iteration Solution.ipynb)
+  - [Exercise](./Value Iteration.ipynb)
+  - [Solution](./Value Iteration Solution.ipynb)
